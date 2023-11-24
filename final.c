@@ -63,7 +63,7 @@ void testCases(void *arguments) {
 /* main */
 int main(void) {
 	osKernelInitialize();
-  osThreadNew(testCases, NULL, NULL);
+  	osThreadNew(testCases, NULL, NULL);
 	osKernelStart();
 	
 	for( ; ; ) ;
