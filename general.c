@@ -1,7 +1,3 @@
-//Name: Shyam Hari 
-//ID: 20768444
-//This project is dedicated to Professor Igor Ivkovic a professor who I shall never forget for igniting my passion in software
-
 #include <cmsis_os2.h>
 #include "general.h"
 
